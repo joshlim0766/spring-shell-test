@@ -19,12 +19,12 @@ apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
-group 'com.pentasecurity'
+group 'josh0766'
 version '1.0.0'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
-mainClassName = 'com.pentasecurity.isignplus.cli.IsignplusCliApplication'
+mainClassName = 'josh0766.cli.IsignplusCliApplication'
 
 repositories {
     mavenCentral()
